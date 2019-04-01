@@ -16,6 +16,6 @@ Frontend is the core effort of this project. It relies on current version of Rea
 The code is structured to start using application level state with either
 
 - built-in reducer (might require some work)
-- or Mobx (mobx friendly setup)
+- or MobX.  MobX friendly setup.
 
 STATUS: as is without any future plans.
