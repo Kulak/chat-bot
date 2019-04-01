@@ -1,0 +1,48 @@
+{
+    "configurationSettings": [
+        {
+            "Key": "SystemErrorResponse",
+            "Value": "Please try again later, this service is currently down."
+        },
+        {
+            "Key": "ClientTimeout",
+            "Value": "10000"
+        },
+        {
+            "Key": "UiLogLevel",
+            "Value": "3"
+        },
+        {
+            "Key": "ConversationSupportApiUrl",
+            "Value": "api/ConversationSupport"
+        },
+        {
+            "Key": "ConversationApiUrl",
+            "Value": "api/Conversation"
+        },
+        {
+            "Key": "ErrNoReplyFromAgentService",
+            "Value": "I am currently undergoing temporary maintenance.  Please try again soon."
+        },
+        {
+            "Key": "ErrFpmlNotLoaded",
+            "Value": "I am currently undergoing temporary maintenance.  Please try again soon."
+        },
+        {
+            "Key": "Epol.Configuration",
+            "Value": "{\"CollapsedPhoneDescription\":\"Click link for phone book\",\"EngagementMessage\":\"I'm Carmen, e.Policies' virtual assistant.\\n\\nYou can ask me questions related to the following subject areas:\\n\\n* Policies\\n\\n* Codes\\n\\n* Communications\\n\\n* Legislations\\n\\n* Definitions\\n\\n* Phone Book Lookup\\n\\nSelect your mode to get started\",\"Domains\":{\"Production\":\"www20.aetna.com\",\"CurrentEnvironment\":\"devwww20.aetna.com\"},\"QueryString\":{\"Enabled\":true,\"EnabledHosts\":[\"www20.aetna.com\",\"devwww20.aetna.com\",\"quickbase.aetna.com\",\"www.aetna.com\",\"aetnet.aetna.com\",\"aetna.flashcode.com\"]}}"
+        },
+        {
+            "Key": "EndUserGrading.HandledAppEventNames",
+            "Value": "<appeventnames>\r\n  <appevent>GradingComplete</appevent>\r\n  <appevent>FeedbackComplete</appevent>\r\n  <appevent>ThankYouAfterFeedback</appevent>\r\n</appeventnames>"
+        },
+        {
+            "Key": "EndUserGrading.SensitiveDataReplacementText",
+            "Value": "******"
+        },
+        {
+            "Key": "EndUserGrading.ApplicationIdentifier",
+            "Value": "NextIT.Alme.Epolicies"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "baseApiUrl": "http://localhost:3001",
+    "baseWebUrl": "base-web-uire-not-set",
+    "apiPrefix": "/AlmeAPI"
+}

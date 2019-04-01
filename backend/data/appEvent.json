@@ -1,0 +1,24 @@
+{
+    "userId": "b6012916-9acb-4beb-8c46-2498d26434b7",
+    "text": "Thank you for your input. Before I can show you results, you need to select a user mode. Please select a mode from the dropdown menu highlighted in red above.",
+    "responseId": "00000000-0000-0000-0000-000000000000",
+    "responseRevision": 1,
+    "unitId": "00000000-0000-0000-0000-000000000000",
+    "displayLinkCollection": {
+        "Sections": [],
+        "Metadata": null
+    },
+    "displayLinks": [],
+    "displayLinkMetadata": null,
+    "navUrl": null,
+    "responseActions": [],
+    "deferredAppCall": null,
+    "userDisplayName": "You: ",
+    "agentDisplayName": "Alme: ",
+    "maskedInput": null,
+    "maintainUiLock": false,
+    "isReverted": false,
+    "extensionData": {
+        "entryId": "7cb6700d-fec5-435f-850e-51387995bcac"
+    }
+}

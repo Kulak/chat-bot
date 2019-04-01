@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./build/out-tsc/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "start tsc --watch && start nodemon",
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "nodemon": "^1.18.10",
+    "typescript": "^3.4.1"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
